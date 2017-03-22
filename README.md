@@ -32,7 +32,7 @@ List of speaker and topic at Malang Frontend monthly meetup.
 
 ## May 2016
 
-* [Syifandi Mulyanto, Amiruddin Irsyad, Fajar Norman](https://github.com/syifandimulyanto, https://github.com/sqfreakz) - Developing Apps in 2 days (Hackathon 2016)
+* [Syifandi Mulyanto](https://github.com/syifandimulyanto), [Amiruddin Irsyad](https://github.com/sqfreakz), Fajar Norman - Developing Apps in 2 days (Hackathon 2016)
 
 * [Yuri Pratama](https://github.com/y68) - Project Workflow
 
